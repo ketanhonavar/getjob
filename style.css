@@ -1,0 +1,49 @@
+nav a{
+    font-size: larger;
+    color: black;
+    margin-right: 90px;
+    
+    background-color: gold;
+    margin-top: 80%;
+    margin-bottom: 20%;
+    
+    
+}
+nav{
+    padding: 25px;
+    background-color: gold;
+    
+    
+}
+img{
+    border-radius: 100%;
+    box-shadow: 2px 2px 2px 2px  black;
+    margin-top: 2%;
+    margin-bottom:65% ;
+    margin-left: 8%;
+    
+    position: absolute;
+}
+#a2{
+    margin-top: 10%;
+    margin-left:75% ;
+    color: white;
+}
+.hire{
+    padding: 35px;
+    margin-top: 20%;
+
+    margin-left: 45%;
+    background-color: gold;
+    color: black;
+    font-size: larger;
+
+}
+nav b{
+    font-size: 10px;
+}
+#aa{
+    margin-left: 30%;
+}
+
+
